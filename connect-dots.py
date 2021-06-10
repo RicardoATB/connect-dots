@@ -1,6 +1,7 @@
 #!/usr/bin/python3.8
 
-# Program that connects dots from a list of coordinate points
+# Description: Program that connects dots from a list of coordinate points
+# Author: Ricardo Augusto Teixeira Barbosa
 
 import argparse
 import matplotlib.pyplot as plt
