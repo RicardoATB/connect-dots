@@ -1,4 +1,5 @@
 **Descripton**: Program that connects dots from a list of coordinate points. When the user click the plot, it displays the dots.
+
 **Motivation**: Test how the output would appear when **drawing pictures in an osciloscopw with X-Y mode** (https://www.youtube.com/watch?v=6dBBAUuze-A)
 
 **Input**: Text file with a list of coordinates separated by space
