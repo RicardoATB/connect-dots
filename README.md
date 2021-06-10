@@ -13,6 +13,6 @@ Example for "flower.xt":
 ...
 ```
 
-**Output **:
+**Output**:
 
 ![animated-gif](https://github.com/RicardoATB/connect-dots/blob/main/animated-gif.gif)
