@@ -2,7 +2,7 @@
 
 **Motivation**: Drawing pictures on an osciloscope with **X-Y mode** (https://www.youtube.com/watch?v=6dBBAUuze-A)
 
-**Input**: Text file with a list of coordinates (X, Y) separated by space
+**Input**: Text file with a list of coordinates (X, Y) separated by space.
 
 Example for "flower.xt":
 ```
