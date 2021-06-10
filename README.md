@@ -4,14 +4,11 @@
 
 **Input**: Text file with a list of coordinates separated by space
 
-Example for "flor.xt":
+Example for "flower.xt":
 ```
 3 3
 1 2
 0 0
--1 2
--3 3
--2 1
 ...
 ```
 
