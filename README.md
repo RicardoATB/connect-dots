@@ -1,6 +1,4 @@
-**Descripton**: Program that connects dots from a list of coordinate points.
-
-**Detail**: When the user click the plot, it displays the dots.
+**Descripton**: Program that connects dots from a list of coordinate points. When the user click the plot, it displays the dots.
 
 **Motivation**: Drawing pictures in an osciloscopw with X-Y mode (https://www.youtube.com/watch?v=6dBBAUuze-A)
 
