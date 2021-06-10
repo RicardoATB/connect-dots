@@ -5,15 +5,15 @@
 **Input**: Text file with a list of coordinates separated by space
 
 Example for "flor.xt":
-`
-3 3<br>
-1 2<br>
-0 0<br>
--1 2<br>
--3 3<br>
--2 1<br>
-...<br>
-`
+```
+3 3
+1 2
+0 0
+-1 2
+-3 3
+-2 1
+...
+```
 
 ** Output **:
 ![animated-gif](https://github.com/RicardoATB/connect-dots/blob/main/animated-gif.gif)
